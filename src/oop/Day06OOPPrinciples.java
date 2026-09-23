@@ -1,4 +1,4 @@
-package javabasics;
+package oop;
 
 /// Day 6 - OOP Principles
 /// Topic: Object-Oriented Programming - OOP Principles

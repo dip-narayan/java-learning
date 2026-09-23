@@ -1,4 +1,4 @@
-package javabasics;
+package oop;
 
 /// Day 5 - Classes and Objects
 /// Topic: Object-Oriented Programming - Classes and Objects

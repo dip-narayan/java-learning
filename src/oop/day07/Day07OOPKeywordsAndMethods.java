@@ -1,4 +1,4 @@
-package javabasics;
+package oop.day07;
 
 /// Day 7 - Important OOP Keywords and Methods
 /// Topic: this, super, static, final, Method Overloading, Constructor Overloading
@@ -175,11 +175,6 @@ public class Day07OOPKeywordsAndMethods {
 
         finalExample.showMessage();
 
-        /*
-         * A child class cannot override showMessage()
-         * because it is declared final.
-         */
-
 
         // ==========================================
         // 8. final CLASS
@@ -187,12 +182,6 @@ public class Day07OOPKeywordsAndMethods {
 
         /*
          * A final class cannot be inherited.
-         *
-         * Example:
-         *
-         * final class SecuritySystem
-         *
-         * Another class cannot extend SecuritySystem.
          */
 
         System.out.println();
